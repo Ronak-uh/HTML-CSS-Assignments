@@ -1,0 +1,21 @@
+body {
+    background-color: violet;
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAclBMVEWRrZT///+TrZKdtaOPrpGSq5be5+COqpGQrpOaspzu8+21xregtqL//f+TrJWUrJOFo4iGpI3I08iIqo/P2ND5/vq8yr2Mro70+PTX4daltqXk7easwbCjuam2xLicsJ6LoYyuuq7O3c/y/fSTopPC0sLGqrElAAAETElEQVR4nO2c7ZKyOBBGI0NIIxggIILg5673f4sbROedGRNW3XII7nN+TdVAVY7dnUToyBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADA/xMiYlJK5nV/+8SEkFzQ2KN6mn7kvhYJw/VWBU1ThiMP6Ul8P0mEYDLctKUK5svZGaX/I8ce2qOIPM/lpt2q4tPjzHznk+MyfT5Rhy4NjYzbU1E01VePnrXvcmSIuirvTShPUxlH6hg01Y1Gz8fY470DEiLb802pNeaGeHyREd7YY7WTJCzPsozHZR3Mq0s8FlOUEblIU7FRtTWrDGnmpAyJTBxU8Ne9Gm7LxMFQcUxKRmyax1VcrRlZPOPiaGTC+fvIiPDuCey7jItpJuKnXByNzLMyiMyLgczbyaBmXsyjMtdVaeIyy6oJalUW/a50umm2nGuNU7Th+nsor6cbGe1RqKgNpRC5Tx4xWU5TpglU2cahvkh4nt892GREfOtymn37Zra4fO1v6jLahGH3wOn79SQihyPzc9e8nBfl5iPk8sbjcoPTMn++zyybYrvjnUT/HNB8g/Myi9lSrfk+zUT3GNDTWG2uMk7WTB+Z5TpdrfyzQP9MM9E+5hucj8ysEf69N7gvE/BHZRxOs8dlEJkXg8i8nQzS7MVA5u1kUDMvBjJIs18AMkizXwAybyeDmnkxj8kkRMzlZ80Py7j8FuAhGSKS6m1kViRrl9OsGpbp2s2TruXc03HxxX67dDgy/cumgcjQtTU4TVO+DmazScv4K18I/lEWzZf3UpOUIZ/x8KBuOh/drJl/kRGsVab2Ovci4xHx1i6TMCZ3ytxcNzkZxvjB1o3qXpppmctrfaMMiYO1gdPJyIjjQGS4vUvYERnP85L+2JVeBPfruV0mPVpdXEkzWvmk1/U8T9Msri95ZJTJBjrR3YjMeT3PMt6W9fms0sIqk5cDxzSckNH7kv0uqn8WtkkmDYwa7sgQC6PGkD1GmYGDG/PRZbq+pMg8Qf2U6bobhmQCvqJkJI3LCPV6bqlpo8zA8Y2SrUaS+GRnPZFhTDP7+Y2q9Uc+2kjiNJA2tzLiYL28kP7IB4Iptq8bATd80HvbAY55a2xF+02y2upilhGt+eKqvPch28ugbGB2KkwyJJTxYiVXY586H+yTVSYZJrhhDtA5NnbB2JPmTEkGGaltbuZy9bcwXfvL6MgsrHutg22mzdb1n2mgCsp9OnpUOobSrNrZPm0Smd7KdZzamKe5Eyoabp+ZC8lso9R77O6JmUaQT+NXSw/trduTqpXM1vrLrj8Q0DXUytGL5YrY2mTU3WN0RoaYJTRBPPqC/jC02hj3J03sSiU8hB8Z5oAi9EffnTwDifYzNpc1pznYJzLXEfz0JdWq4y6bqsmZLItUEAT18RTt0nTs0fw3zmtgdkacf7Fo4lB/nuSyFI49GgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAr+EfInc+eKnNQsAAAAAASUVORK5CYII=");
+    background-size: 200px 150px;
+    background-repeat: no-repeat;
+    background-position: 111;
+    border: 10px, solid;
+    border-top-width: thin;
+    border-radius: 35px;
+    border-color: rgba(20,40,80,0.5);
+    border-radius: 100px;
+    border-style: double;
+    border
+    
+}
+.main{
+    color: green;
+    background-color: blanchedalmond;
+    display: inline;
+    text-align: center;
+}
